@@ -1,6 +1,6 @@
 ---
-layout: Informační architektura v ČR
-title: Vhodné / Nevhodné použití
+layout: page
+title: About
 permalink: /about/
 ---
 
