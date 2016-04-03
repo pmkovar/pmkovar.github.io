@@ -1,15 +1,15 @@
 ---
-layout: page
-title: About
+layout: Informační architektura v ČR
+title: Vhodné / Nevhodné použití
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Nevim si vůbec rady co sem napsat, jako o mě nebo o tom tématu ? 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[449831@mail.muni.cz](mailto:449831@mail.muni.cz)
