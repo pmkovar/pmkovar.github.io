@@ -1,14 +1,15 @@
 ---
 layout: page
-title: O mě
+title: O webu
 permalink: /about/
 ---
 
-Nějaké Informace o mě!
+Nějaké Informace o webu
 
 ### Více informací
 
-Nevim si vůbec rady co sem napsat, jako o mě nebo o tom tématu ? 
+Tento web / Blog se zabývá využitím Informační Architektury (dále jen IA) na webech v České Republice, tedy česky psaných webech.
+Chtěla bych porovnat české weby se zahraničnímy a zaměřit se na to v čem zaostávají.
 
 ### Kontaktujte mě 
 
