@@ -3,6 +3,8 @@ layout: post
 title: Jaké jsou základní principy Informační architektury?
 ---
 
+8 zíkladních principů Informační architektury by Dan Brown
+
 Tato prezentace vlastně vysvětluje základní principy (je jich 8 ) fungování Informační architektury a je ilustrovaná obrázky ( jak už to v prezentacích bývá )
 
 1. Obsah jako objekty - v prezentaci je příklad s nutričními údaji fazolí, nebo s receptem na vaření - jednoduše obsah bereme jako objekt, můžeme si sním hrát a přesouvat ho z jednoho místa na druhé (jako kostičku, tady ale na webové stránce) ale pořád ho necháváme pohromadě ( objekt nemůžeme rozdělit)
