@@ -26,4 +26,4 @@ věci za minulý rok apod.
 
 Na závěr je zde otázka Co je to teorie IA ? na kterou autor odpovídá třemi slovy a to - Dohoda, výklad a  internalizace
 
-[Zdroj](http://www.slideshare.net/brownorama/eight-principles-of-information-architecture) on GitHub.
+[Zdroj](http://www.slideshare.net/brownorama/eight-principles-of-information-architecture)
