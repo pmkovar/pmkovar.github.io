@@ -3,7 +3,7 @@ layout: post
 title: Jaké jsou základní principy Informační architektury?
 ---
 
-8 zíkladních principů Informační architektury by Dan Brown
+8 základních principů Informační architektury podle Dana Browna
 
 Tato prezentace vlastně vysvětluje základní principy (je jich 8 ) fungování Informační architektury a je ilustrovaná obrázky ( jak už to v prezentacích bývá )
 
