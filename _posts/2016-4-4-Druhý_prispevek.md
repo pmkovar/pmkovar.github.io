@@ -1,3 +1,7 @@
+---
+layout: post
+title: Úkol do Remixování webu - něco více k IA
+---
 <!DOCTYPE html>
 <html>
 <head>
