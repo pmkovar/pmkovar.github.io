@@ -2,10 +2,10 @@
 layout: post
 title: Úkol do Remixování webu - něco více k IA
 ---
-<!DOCTYPE html>
+
 <html>
 <head>
-  <title>Zpracovaný úkol</title>
+  <title>Úkol do Remixování webu - něco více k IA</title>
 </head>
 <body>
   <!-- První příklad - video z portálu vimeo -->
