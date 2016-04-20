@@ -3,7 +3,8 @@ layout: page
 title: O webu
 permalink: /about/
 ---
-####Informační architektura - Waltlová Andrea, Kovář Petr
+Informační architektura - Waltlová Andrea, Kovář Petr
+==========================================================
 
 #####Cílovou skupinu či skupiny
 začátečníci ve vytváření webů, studenti informačních studií a příbuzných oborů
