@@ -54,25 +54,25 @@ World+Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=&f=false
 
 ######Videa - Dostupných jich je mnohem více
 
-Understanding Information Architecture - Dan Klyn and Shari Thurow at UXPA 2013 https://www.youtube.com/watch?v=_9kcfq4jqlc 
+[Understanding Information Architecture - Dan Klyn and Shari Thurow at UXPA 2013](https://www.youtube.com/watch?v=_9kcfq4jqlc) 
 
-Understanding Information Architecture with Brian Miller https://www.youtube.com/watch?v=Ytv21Jx0hD4
+[Understanding Information Architecture with Brian Miller](https://www.youtube.com/watch?v=Ytv21Jx0hD4)
 
-UX tutorial: What is information architecture? | lynda.com https://www.youtube.com/watch?v=-b6-tuyWmi8  
+[UX tutorial: What is information architecture? | lynda.com](https://www.youtube.com/watch?v=-b6-tuyWmi8  )
 
-User Interface (UX) Techniques • Janne Jul Jensen https://www.youtube.com/watch?v=7OSkB4BCx00
+[User Interface (UX) Techniques • Janne Jul Jensen](https://www.youtube.com/watch?v=7OSkB4BCx00)
 
-The new information architecture https://www.youtube.com/watch?v=Fou5J7j5uzk 
+[The new information architecture](https://www.youtube.com/watch?v=Fou5J7j5uzk )
 
-Information Architecture https://www.youtube.com/watch?v=xVgepwWXgVo 
+[Information Architecture](https://www.youtube.com/watch?v=xVgepwWXgVo )
 
 ######Obrázky
 
-Infografika - http://www.keencomputer.com/images/KEENCOMP/InfoormationArch/ia-explained.jpg 
+[Infografika](http://www.keencomputer.com/images/KEENCOMP/InfoormationArch/ia-explained.jpg )
 
-Vennův diagram vystihující IA - http://s.hswstatic.com/gif/illustration-information-architecture-1.gif 
+[Vennův diagram vystihující IA](http://s.hswstatic.com/gif/illustration-information-architecture-1.gif )
 
-Struktura webu příklad - http://blogs.library.duke.edu/wp-content/uploads/2013/03/lib-ia-1.3.1-20130311.png 
+[Struktura webu příklad](http://blogs.library.duke.edu/wp-content/uploads/2013/03/lib-ia-1.3.1-20130311.png )
 
 #####Vizuální inspiraci pro budoucí vzhled webu (weby, obrázky, designové prvky atp.)
 
@@ -91,7 +91,7 @@ Jako inspiraci bychom nejspíše použili nějakou ze šablon dostupných na htt
 7. Správa obsahu
 8. Skupiny uživatelů
 9. Organizační struktury
-10. avigace v IA
+10. Navigace v IA
 11. Popisy a štítkování
 12. Příklady vhodného / nevhodného použití IA
 
