@@ -4,7 +4,8 @@ title: O webu
 permalink: /about/
 ---
 Informační architektura 
-==========================================================
+=======================
+
 Waltlová Andrea, Kovář Petr
 -------------------------------
 
@@ -56,7 +57,7 @@ Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=Information%20architect
 5. VEST, Jeremy; PORCHRAN, Shannon; CROWSON,William. Exploring web design. [online]. 1. vydání. USA: Thomson Delmar Learning, 2005. ISBN 1-4018-7838-5. Dostupné z: http://books.google.cz/books?id=pTc5X32f5_4C&printsec=frontcover&dq=Information+architecture+for+the+
 World+Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=&f=false
 
-Prozkoumejte dostupná multimédia (obrázky, videa atp.) a odkažte na ně
+Dostupná multimédia 
 ----------------------------------------------------------------------------------------------------------
 Videa - Dostupných jich je mnohem více
 
@@ -83,11 +84,11 @@ Obrázky
 Vizuální inspirace pro budoucí vzhled webu
 ----------------------------------------------------------------------------------------------------------
 
-Jelikož se zabýváme IA, tak by měl web jít příkladem a být co nejvíce user friendly (otázkou je, jestli ho budeme muset realizovat , protože to bych asi nezvládla).
+Jelikož se zabýváme IA, tak by měl web jít příkladem a být co nejvíce user friendly (otázkou je, jestli ho budeme muset realizovat , protože to bychom asi nezvládli).
 
 Jako inspiraci bychom nejspíše použili nějakou ze šablon dostupných na http://jekyllthemes.io/ nebo na http://jekyllthemes.io/.
 
-Základní obsah k tématu (alespoň 10 odrážek v logické struktuře)
+Základní obsah webu
 ----------------------------------------------------------------------------------------------------------
 
 1. Co je to IA ?
@@ -103,7 +104,7 @@ Základní obsah k tématu (alespoň 10 odrážek v logické struktuře)
 11. Popisy a štítkování
 12. Příklady vhodného / nevhodného použití IA
 
-Strategii zveřejňování obsahu: jaké informace a jakým způsobem budete zveřejňovat?
+Strategii zveřejňování obsahu
 ----------------------------------------------------------------------------------------------------------
 Informace o IA bych zveřejňovala postupně v jednotlivých “lekcích” (viz předcházející úkol). Obsah bych samozřejmě ilustrovala vizuálním materiálem - obrázky, infografiky, videa, prezentace atp.
 
