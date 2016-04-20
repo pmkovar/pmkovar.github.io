@@ -55,9 +55,9 @@ World+Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=&f=false
 
 2. [Understanding Information Architecture with Brian Miller](https://www.youtube.com/watch?v=Ytv21Jx0hD4)
 
-3. [UX tutorial: What is information architecture? | lynda.com](https://www.youtube.com/watch?v=-b6-tuyWmi8  )
+3. [UX tutorial: What is information architecture?lynda.com](https://www.youtube.com/watch?v=-b6-tuyWmi8  )
 
-4. [User Interface (UX) Techniques • Janne Jul Jensen](https://www.youtube.com/watch?v=7OSkB4BCx00)
+4. [User Interface (UX) TechniquesJanne Jul Jensen](https://www.youtube.com/watch?v=7OSkB4BCx00)
 
 5. [The new information architecture](https://www.youtube.com/watch?v=Fou5J7j5uzk )
 
