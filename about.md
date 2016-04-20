@@ -13,6 +13,7 @@ začátečníci ve vytváření webů, studenti informačních studií a příbu
 #####Cíl webu (alespoň 280 znaků) 
 
 Cílem našeho webu by mělo být shrnutí IA: vysvětlení, co IA je, proč a jak ji správně využívat spolu s tvorbou a strukturováním obsahu včetně multimédií (obrázky, videa atp.), UX a SEO. Informace by měly být užitečné, srozumitelné přibližně na úrovni začínajícího tvůrce webů nebo studenta. Uživatel, který k nám zavítá pro radu, by měl odcházet s pocitem, že se dozvěděl něco nového. Samozřejmě je naším cílem udělat takový web, který splní podmínky pro ukončení kurzu.
+
 #####Název webu 
 Informační architektura – co to vlastně je? 
 
