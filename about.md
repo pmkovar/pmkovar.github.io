@@ -4,14 +4,18 @@ title: O webu
 permalink: /about/
 ---
 ####Informační architektura - Waltlová Andrea, Kovář Petr
+
 #####Cílovou skupinu či skupiny
 začátečníci ve vytváření webů, studenti informačních studií a příbuzných oborů
 
 #####Cíl webu (alespoň 280 znaků) 
 Cílem našeho webu by mělo být shrnutí IA: vysvětlení, co IA je, proč a jak ji správně využívat spolu s tvorbou a strukturováním obsahu včetně multimédií (obrázky, videa atp.), UX a SEO. Informace by měly být užitečné, srozumitelné přibližně na úrovni začínajícího tvůrce webů nebo studenta. Uživatel, který k nám zavítá pro radu, by měl odcházet s pocitem, že se dozvěděl něco nového. Samozřejmě je naším cílem udělat takový web, který splní podmínky pro ukončení kurzu.
+
 #####Název webu 
 Informační architektura – co to vlastně je? 
+
 #####Seznam alespoň 5 zásadních webových zdrojů, které se věnují stejné oblasti
+
 1. [Bakalářská práce na téma informační architektury](http://is.muni.cz/th/327463/ff_b/Bakalarska_prace_Lucie_Dvorakova.pdf?zpet=%2Fvyhledavani%2F%3Fsearch%3Dinforma%C4%8Dn%C3%AD%20architektura%20agenda%3Ath%26start%3D1)
 
 2. [Článek na Inflow - výtah z bakalářské práce](http://www.inflow.cz/postup-pri-tvorbe-informacni-architektury-webove-prezentace)
