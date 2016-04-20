@@ -1,13 +1,10 @@
 ---
 layout: page
-title: O webu
+title: About us
 permalink: /about/
 ---
 Informační architektura 
 =======================
-
-Waltlová Andrea, Kovář Petr
--------------------------------
 
 Cílové skupiny
 -----------------------------------------------------
