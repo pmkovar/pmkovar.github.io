@@ -3,13 +3,12 @@ layout: post
 title: Náš tým a naše motivace
 ---
 
-<html>
-<head>
-</head>
-<body>
-  <h3>Náš tým</h3>
-  <h5>Kovář Petr</h5>
-  <h5>Waltlová Andrea</h5>
-  <h3>Naše motivace</h3>
-</body>
-</html>
+Náš tým
+-------
+
+Andrea Waltlová a Petr Kovář studují obor Informační studia a knihovnictví na Filozofické fakultě Masarykovy univerzity v Brně. V rámci předmětu NAMI řeší semestrální projekt věnovaný tématu informační architektury.
+
+Naše motivace
+-------------
+
+Motivací nám je především zájem o teorii informační architektury ve vztahu k webovému prostoru a o aplikaci teoretických poznatků formou informačního webu do praxe.
