@@ -1,22 +1,20 @@
 ---
 layout: page
-title: About us
+title: Informační architektura
 permalink: /about/
 ---
-Informační architektura 
-=======================
 
 Cílové skupiny
 -----------------------------------------------------
-začátečníci ve vytváření webů, studenti informačních studií a příbuzných oborů
+Začátečníci ve vytváření webů, studenti informačních studií a příbuzných oborů.
 
-Cíl webu 
+Cíl webu
 -----------------------------------------------------
-Cílem našeho webu by mělo být shrnutí IA: vysvětlení, co IA je, proč a jak ji správně využívat spolu s tvorbou a strukturováním obsahu včetně multimédií (obrázky, videa atp.), UX a SEO. Informace by měly být užitečné, srozumitelné přibližně na úrovni začínajícího tvůrce webů nebo studenta. Uživatel, který k nám zavítá pro radu, by měl odcházet s pocitem, že se dozvěděl něco nového. Samozřejmě je naším cílem udělat takový web, který splní podmínky pro ukončení kurzu.
+Cílem našeho webu je shrnutí tématu IA: vysvětlení, co IA je, proč a jak ji správně aplikovat spolu s aspekty UX a SEO při tvorbě a strukturování webového obsahu včetně multimédií (obrázky, videa atp.). Informace by měly být užitečné a srozumitelné přibližně na úrovni začínajícího tvůrce webů nebo studenta. Uživatel, který k nám zavítá pro radu, by měl odcházet s pocitem, že se dozvěděl něco nového. Samozřejmě je naším cílem udělat takový web, který splní podmínky pro ukončení kurzu.
 
 Název webu 
 -----------------------------------------------------
-Informační architektura – co to vlastně je? 
+Informační architektura – co to vlastně je?
 
 Webové zdroje
 ----------------------------------------------------------------------------------------------------------
@@ -81,29 +79,25 @@ Obrázky
 Vizuální inspirace pro budoucí vzhled webu
 ----------------------------------------------------------------------------------------------------------
 
-Jelikož se zabýváme IA, tak by měl web jít příkladem a být co nejvíce user friendly (otázkou je, jestli ho budeme muset realizovat , protože to bychom asi nezvládli).
+Jelikož se zabýváme IA, tak by měl web jít příkladem a být co nejvíce user friendly.
 
-Jako inspiraci bychom nejspíše použili nějakou ze šablon dostupných na http://jekyllthemes.io/ nebo na http://jekyllthemes.io/.
+Jako inspiraci bychom nejspíše použili nějakou ze šablon dostupných na [http://jekyllthemes.io/](http://jekyllthemes.io/) nebo na [http://jekyllthemes.io/](http://jekyllthemes.io/).
 
 Základní obsah webu
 ----------------------------------------------------------------------------------------------------------
 
-1. Co je to IA ?
-2. Čím se zabývá IA ?
-3. Principy IA
-4. Proč používat IA ?
-5. Kde se s IA potkáme ?
-6. User experience
-7. Správa obsahu
-8. Skupiny uživatelů
-9. Organizační struktury
-10. Navigace v IA
-11. Popisy a štítkování
-12. Příklady vhodného / nevhodného použití IA
+1. Co je to IA?
+1. Čím se zabývá IA?
+1. Principy IA
+1. Proč používat IA?
+1. Kde se s IA potkáme?
+1. Správa obsahu
+1. Skupiny uživatelů
+1. Organizační struktury
+1. Navigace v IA
+1. Příklady vhodného či nevhodného použití IA
 
-Strategii zveřejňování obsahu
+Strategie zveřejňování obsahu
 ----------------------------------------------------------------------------------------------------------
-Informace o IA bych zveřejňovala postupně v jednotlivých “lekcích” (viz předcházející úkol). Obsah bych samozřejmě ilustrovala vizuálním materiálem - obrázky, infografiky, videa, prezentace atp.
-
-
+Informace o IA chceme zveřejňovat postupně v jednotlivých “lekcích” (viz předcházející úkol). Obsah bych samozřejmě ilustrovala vizuálním materiálem: obrázky, infografika, videa, prezentace atp.
 
