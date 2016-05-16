@@ -19,15 +19,12 @@ Pojem informační architektura jako vědní disciplína se objevuje v roce 2000
 
 >„Informační architektura zahrnuje návrh organizace, označování, navigaci a vyhledávací systémy, které pomůžou lidem najít a spravovat informace úspěšněji.”
 
-[Zdroj](https://cs.wikipedia.org/wiki/Informa%C4%8Dn%C3%AD_architektura)
-
-[Zdroj obrázek logo](http://extrastory.cz/images/2014/10-rijen/10-3/9-9017-1-footofan-com-1413035604.jpg)
-
-[Zdroj obrázek v textu](https://cs.wikipedia.org/wiki/Jeskynn%C3%AD_mal%C3%AD%C5%99stv%C3%AD#/media/File:Lascaux_03.jpg)
+* [Zdroj](https://cs.wikipedia.org/wiki/Informa%C4%8Dn%C3%AD_architektura)
+* [Zdroj obrázek logo](http://extrastory.cz/images/2014/10-rijen/10-3/9-9017-1-footofan-com-1413035604.jpg)
+* [Zdroj obrázek v textu](https://cs.wikipedia.org/wiki/Jeskynn%C3%AD_mal%C3%AD%C5%99stv%C3%AD#/media/File:Lascaux_03.jpg)
 
 
-Další relevantní externí zdroje
+**Další relevantní externí zdroje**
 
-[Zdroj 1 - Ikaros](http://ikaros.cz/informacna-architektura)
-
-[Zdroj 2 - Inventic](https://www.inventic.cz/informacni-architektura.html)
+*[Zdroj 1 - Ikaros](http://ikaros.cz/informacna-architektura)
+*[Zdroj 2 - Inventic](https://www.inventic.cz/informacni-architektura.html)
