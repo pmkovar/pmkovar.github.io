@@ -1,6 +1,6 @@
 Exercise #2
 
-You can see the live version of this content here:
+MAX CHANGE You can see the live version of this content here:
 
 https://docs.fedoraproject.org/en-US/Fedora/21/html/System_Administrators_Guide/ch-yum.html#sec-Updating_Packages
 
