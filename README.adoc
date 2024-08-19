@@ -1,0 +1,6 @@
+= pmkovar.github.io
+
+== Credits
+
+The CV template used here is based on https://github.com/poznachowski/cv/ by
+Grzegorz Poznachowski.

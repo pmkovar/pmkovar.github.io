@@ -1,0 +1,210 @@
+= Petr Kovar
+:hide-uri-scheme:
+
+== Personal details
+
+[cols="20,40,>.^~", grid="none", frame="none"]
+|===
+|Email:
+|pmkovar@gmail.com
+
+//|Name:
+//s| Petr Kovar
+
+.7+a|image::pmkovar.jpg[align='right', pdfwidth="80"]
+
+//|Address:
+//|Address Line 1 +
+//Address Line 2
+
+//|Date of birth:
+//|Date of birth
+
+//|Phone:
+//|Phone number
+
+|LinkedIn:
+|https://www.linkedin.com/in/pmkovar
+
+|Technical blog:
+|https://blogs.gnome.org/pmkovar/
+
+|GitHub:
+|https://github.com/pmkovar/
+
+|CV source code:
+|https://github.com/pmkovar/pmkovar.github.io
+
+|===
+
+
+== Summary
+
+My expertise lies in technical communication, and project and program
+management, with a focus on delivering clear, effective documentation. I’m
+experienced in community management and open source software development, where
+I engage and connect both the community and corporate contributors.
+
+Additionally, I’m skilled in technical translation, working within open source
+translation communities to make software and documentation accessible worldwide.
+
+== Work experience
+
+[cols=">14,2,70,>.^~", grid="none", frame="none"]
+|===
+
+|8/2018–9/2023
+|
+s|Documentation Program Manager, Red Hat
+|Brno, Czechia
+
+|
+|
+2+a|
+- Played a key role in reestablishing and transforming a writing group for Red
+Hat Enterprise Virtualization into an agile team.
+- Developed new workflows and mentored team members to ensure their success in
+an agile environment.
+- Oversaw release management, task planning, and tracking.
+- Integrated 15+ Kubernetes and OpenShift-based tools and the Red Hat Developer
+Program projects into a unified, Jira-centered documentation project,
+bringing together 25+ writers under a cohesive framework.
+- _Project Management · Program Management · Agile & Waterfall
+Methodologies · Task Assignment · Jira · Cloud-Native Applications · DevOps ·
+Kubernetes · OpenShift_
+
+|3/2015–8/2018
+|
+s|Senior Technical Writer, Red Hat
+|Brno, Czechia
+
+|
+|
+2+a|
+- Developed a content strategy for single-sourcing Red Hat Enterprise Linux
+desktop documentation, ensuring seamless delivery across both community and
+enterprise products.
+- Contributed to transforming CloudForms content into topic-based documentation,
+utilizing a new docs-as-code toolchain built on Asciidoc.
+- _Content Strategy · Continuous Integration and Continuous Delivery (CI/CD) ·
+Topic-based Authoring · Markdown · Sphinx · AsciiDoc_
+
+|4/2011–3/2015
+|
+s|Technical Writer II
+|Brno, Czechia
+
+|
+|
+2+a|
+- Developed content for key areas of Linux platform and cloud products,
+including package management, identity and access management, and desktop on
+Red Hat Enterprise Linux.
+- Served as the documentation lead for the desktop area, establishing
+single-source workflows and collaborating with the GNOME and Fedora
+documentation and translation communities.
+- _Linux · DocBook · XML · Technical Writing · Bash · Git · Single Sourcing ·
+Content Management_
+
+|===
+
+== Projects
+
+[cols=">14,2,70,>.^~", grid="none", frame="none"]
+|===
+
+|8/2017–3/2019
+|
+s|Documentation Project Team Lead, OpenStack
+|
+
+|
+|
+2+a|
+- Elected Project Team Lead of the OpenStack Documentation Project by the
+OpenStack community.
+- Responsible for documentation release management, community engagement,
+writers mentorship.
+- Represented the documentation project by running documentation sessions
+at OpenStack summits and Project Team Gatherings.
+- As a writer, maintained Red Hat-specific content provided by the OpenStack
+Documentation Project.
+- Collaborated on building and running the OpenStack documentation site.
+- Co-maintained the RDO project site.
+- _Release Management · Coaching & Mentoring · Community Management ·
+Community Engagement · Community Outreach_
+
+|8/2017–Present
+|
+s|Lead, GNOME Documentation Project
+|
+
+|
+|
+2+a|
+- Lead a team of community writers to create comprehensive user, sysadmin, and
+developer documentation for official GNOME releases.
+- Oversaw maintenance, issue resolution, and release management of documentation
+packages.
+- Contributed to the information architecture for both desktop and online
+documentation.
+- Organized and facilitated documentation meetups, workshops, and hackfests to
+engage and support the broader GNOME community.
+
+|4/2010–Present
+|
+s|Member of the GNOME Translation Project Coordination Team, GNOME
+|
+
+|
+|
+2+a|
+- Collaborate with the Coordination Team to manage the l10n.gnome.org platform,
+overseeing issue resolution and user management for 50+ GNOME translation teams.
+- Approved code freeze exceptions as part of the GNOME release process.
+- Organized community meetups for the GNOME translation community at annual
+GUADEC conferences.
+
+|2007–3/2018
+|
+s|Czech Translation Team Coordinator, GNOME Translation Project
+|
+
+|
+|
+2+a|
+- Coordinated a team of community translators. Responsible for onboarding and
+training, ticket reporting and escalation, and delivering translations for
+official GNOME releases as well as third-party projects hosted by GNOME, such as
+GIMP.
+- Organized meetups for Czech translators across various open-source projects
+under the L10n.cz platform, fostering collaboration and knowledge sharing within
+the community.
+
+|===
+
+== Education
+
+[cols=">14,2,70,>.^~", grid="none", frame="none"]
+|===
+
+|2015–2018
+|
+s|Masaryk University
+|Brno, Czechia
+
+|
+|
+2+a|
+- Bachelor of Arts — BA, Information and Library Studies
+
+|===
+
+== Certificates
+
+- Red Hat Certified System Administrator (RHCSA), issued 9/2012
+
+== Languages
+
+- English — full professional proficiency
+- Czech — native proficiency
