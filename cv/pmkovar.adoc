@@ -26,14 +26,20 @@
 |LinkedIn:
 |https://www.linkedin.com/in/pmkovar
 
-|Technical blog:
-|https://blogs.gnome.org/pmkovar/
+//|Technical blog:
+//|https://blogs.gnome.org/pmkovar/
 
 |GitHub:
 |https://github.com/pmkovar/
 
-|CV source code:
-|https://github.com/pmkovar/pmkovar.github.io
+//|CV source code:
+//|https://github.com/pmkovar/pmkovar.github.io
+
+|
+|
+
+|
+|
 
 |===
 
@@ -42,8 +48,8 @@
 
 My expertise lies in technical communication, and project and program
 management, with a focus on delivering clear, effective documentation. I’m
-experienced in community management and open source software development, where
-I engage and connect both the community and corporate contributors.
+experienced in community management and open source software development,
+connecting the community and corporate contributors.
 
 Additionally, I’m skilled in technical translation, working within open source
 translation communities to make software and documentation accessible worldwide.
@@ -100,6 +106,9 @@ s|Technical Writer II
 - Developed content for key areas of Linux platform and cloud products,
 including package management, identity and access management, and desktop on
 Red Hat Enterprise Linux.
+- Researched documentation topics by analyzing technical specifications,
+reviewing source code, interviewing Subject Matter Experts, and building test
+environments.
 - Served as the documentation lead for the desktop area, establishing
 single-source workflows and collaborating with the GNOME and Fedora
 documentation and translation communities.
@@ -129,8 +138,8 @@ writers mentorship.
 at OpenStack summits and Project Team Gatherings.
 - As a writer, maintained Red Hat-specific content provided by the OpenStack
 Documentation Project.
-- Collaborated on building and running the OpenStack documentation site.
-- Co-maintained the RDO project site.
+- Collaborated in the building and running of the OpenStack documentation site.
+- Co-maintained the RDO project site, using the Middleman framework.
 - _Release Management · Coaching & Mentoring · Community Management ·
 Community Engagement · Community Outreach_
 
