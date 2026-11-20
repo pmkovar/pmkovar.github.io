@@ -92,7 +92,7 @@ body {
 }
 
 /* Body Text */
-.paragraph.hero,
+.paragraph.inscriptio,
 #content > .paragraph:first-of-type {
   flex: 1;
   display: flex;
@@ -103,7 +103,7 @@ body {
   padding: 1rem 0;
 }
 
-.paragraph.hero p,
+.paragraph.inscriptio p,
 #content > .paragraph:first-of-type p {
   margin: 0;
   width: 100%;
@@ -120,18 +120,18 @@ body {
 }
 
 /* CV link at bottom center */
-.paragraph.cv-link {
+.paragraph.nexus {
   margin: 0;
   padding-top: 1.5rem;
   width: 100%;
   text-align: center;
 }
 
-.paragraph.cv-link p {
+.paragraph.nexus p {
   margin: 0;
 }
 
-.paragraph.cv-link a {
+.paragraph.nexus a {
   display: inline-block;
   font-family: var(--font-roman);
   font-size: clamp(0.7rem, 1.8vw, 0.82rem);
@@ -145,15 +145,15 @@ body {
   transition: color 0.25s ease, border-color 0.25s ease;
 }
 
-.paragraph.cv-link a:hover,
-.paragraph.cv-link a:focus {
+.paragraph.nexus a:hover,
+.paragraph.nexus a:focus {
   color: var(--accent);
   border-bottom-color: var(--accent);
 }
 
 /* Compact screens refinement */
 @media (max-width: 340px) {
-  .paragraph.hero p,
+  .paragraph.inscriptio p,
   #content > .paragraph:first-of-type p {
     font-size: clamp(1.2rem, 7.6vw, 1.8rem);
     letter-spacing: 0.08em;
@@ -172,11 +172,14 @@ body {
 <h1>pmkovar.github.io</h1>
 </div>
 <div id="content">
-<div class="paragraph hero">
+<div class="paragraph inscriptio">
 <p>Hic sunt leones.</p>
 </div>
-<div class="paragraph cv-link">
-<p><a href="pmkovar.pdf">Curriculum Vitae</a></p>
+<div class="paragraph nexus">
+<p>Hic specta:</p>
+</div>
+<div class="paragraph nexus">
+<p><a href="https://www.linkedin.com/in/pmkovar/">LinkedIn</a> · <a href="pmkovar.pdf">Curriculum Vitae</a></p>
 </div>
 </div>
 </body>
