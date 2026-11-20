@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&display=swap');
+
+/* Classical Roman Travertine & Obsidian */
+:root {
+  --bg-color: #f7f4ee;         /* Warm stone / travertine */
+  --text-main: #1f1f1e;        /* Deep Roman charcoal / carved stone */
+  --text-muted: #7c7873;       /* Weathered stone gray */
+  --accent: #8b5a2b;           /* Classical bronze */
+  --accent-hover: #5c3a1a;
+  --font-roman: 'Cinzel', 'Trajan Pro', 'Baskerville', 'Georgia', serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #121213;       /* Deep obsidian / basalt */
+    --text-main: #e6e3dc;      /* Antique marble / limestone */
+    --text-muted: #8c8984;     /* Ash gray */
+    --accent: #c49a6c;         /* Antique gold / bronze */
+    --accent-hover: #e0b88c;
+  }
+}
+
+/* Document reset & base */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+  padding: calc(2rem + env(safe-area-inset-top, 0px)) clamp(0.5rem, 2vw, 2rem) calc(1.5rem + env(safe-area-inset-bottom, 0px));
+  min-height: 100%;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--bg-color);
+  color: var(--text-main);
+  font-family: var(--font-roman);
+  text-align: center;
+  overflow-x: hidden;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Page Title */
+#header {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+#header h1 {
+  margin: 0;
+  padding: 0;
+  border: none;
+  font-family: var(--font-roman);
+  font-size: clamp(0.75rem, 2vw, 0.92rem);
+  font-weight: 400;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+/* Content Area */
+#content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Body Text */
+.paragraph.inscriptio,
+#content > .paragraph:first-of-type {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin: 0;
+  padding: 1rem 0;
+}
+
+.paragraph.inscriptio p,
+#content > .paragraph:first-of-type p {
+  margin: 0;
+  width: 100%;
+  font-family: var(--font-roman);
+  /* Sized fluidly relative to viewport width to fill ~90-92% of the screen width */
+  font-size: clamp(1.4rem, min(8.1vw, 22vh), 22rem);
+  font-weight: 600;
+  line-height: 1.12;
+  letter-spacing: clamp(0.08em, 0.4vw, 0.14em);
+  text-transform: uppercase;
+  color: var(--text-main);
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* CV link at bottom center */
+.paragraph.nexus {
+  margin: 0;
+  padding-top: 1.5rem;
+  width: 100%;
+  text-align: center;
+}
+
+.paragraph.nexus p {
+  margin: 0;
+}
+
+.paragraph.nexus a {
+  display: inline-block;
+  font-family: var(--font-roman);
+  font-size: clamp(0.7rem, 1.8vw, 0.82rem);
+  font-weight: 400;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  padding-bottom: 2px;
+  transition: color 0.25s ease, border-color 0.25s ease;
+}
+
+.paragraph.nexus a:hover,
+.paragraph.nexus a:focus {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* Compact screens refinement */
+@media (max-width: 340px) {
+  .paragraph.inscriptio p,
+  #content > .paragraph:first-of-type p {
+    font-size: clamp(1.2rem, 7.6vw, 1.8rem);
+    letter-spacing: 0.08em;
+  }
+}
+
+/* Asciidoctor Overrides */
+#footer {
+  display: none;
+}

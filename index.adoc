@@ -1,3 +1,12 @@
 = pmkovar.github.io
+:stylesheet: forma.css
+:nofooter:
 
-Hic sunt leones.
+[.inscriptio]
+·Hic sunt leones·
+
+[.nexus]
+·Hic specta·
+
+[.nexus]
+https://www.linkedin.com/in/pmkovar/[LinkedIn] · link:pmkovar.pdf[Curriculum Vitae] · https://github.com/pmkovar[GitHub]
